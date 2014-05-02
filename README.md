@@ -50,11 +50,11 @@ ubuntu用户请运行：
 
 即可。
 
-#### Disclaim
+#### Disclaimer
 
 This repos is a fork of [baidumusicbox](https://code.google.com/p/baidumusicbox/).
 
 Read more at [here](http://forum.ubuntu.org.cn/viewtopic.php?f=137&t=395132).
 
-#### 本代碼歸 wiewi 所有
+#### 本代碼歸 [wiewi](http://forum.ubuntu.org.cn/memberlist.php?mode=viewprofile&u=132410) 所有
   
